@@ -19,7 +19,7 @@ https://themanwholikestocode.github.io/Portfolio/
 - 💬 My experiences with machine learning or my thoughts on the role of technology in education.
 
 ## How to reach me:
-- 📫 You can reach me via email at JaydinFreemanWork@gmail.com or connect with me on LinkedIn at (https://www.linkedin.com/in/jaydin-freeman/).
+- 📫 You can reach me via email at JaydinFreemanWork@gmail.com or connect with me on LinkedIn at [LinkedIn](https://www.linkedin.com/in/jaydin-freeman/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
