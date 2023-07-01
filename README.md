@@ -1,8 +1,8 @@
 ### Hi there 👋 
 My name is Jaydin and I am a student at kettering University, where I am studying computer science with a concentration in artificial intelligence.
 ### Check out my site
-https://themanwholikestocode.github.io/Portfolio/
-
+[https://themanwholikestocode.github.io/Portfolio/
+](https://themanwholikestocode.github.io/Portfolio/)
 - 🔭 I’m currently working on LeetCode!
 - 🌱 I’m currently learning more different algorithmic solving patterns and techniques
 - 👯 I’m looking to collaborate on projects that involve data analysis or automation.
