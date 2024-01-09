@@ -3,7 +3,7 @@ My name is Jaydin and I am a student at kettering University, where I am studyin
 ### Check out my site
 [https://themanwholikestocode.github.io/Portfolio/
 ](https://themanwholikestocode.github.io/Portfolio/)
-- 🔭 I’m currently working on LeetCode!
+- 🔭 I’m currently working on Archive-Me!
 - 🌱 I’m currently learning more different algorithmic solving patterns and techniques
 - 👯 I’m looking to collaborate on projects that involve data analysis or automation.
 - 🤔 I’m looking for help with optimizing the performance of my blackboard scraper and any suggestions for new features to add.
