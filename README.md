@@ -26,5 +26,4 @@ Hi there! I'm Jaydin, and this is a little hub where I house my projects, share 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheManWhoLikesToCode&icon=1&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
