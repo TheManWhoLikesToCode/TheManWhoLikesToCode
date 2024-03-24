@@ -3,15 +3,20 @@ Hi there! I'm Jaydin, and this is a little hub where I house my projects, share 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheManWhoLikesToCode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheManWhoLikesToCode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheManWhoLikesToCode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center"> GitHub Stats<br/> <img src="https://github-readme-stats.vercel.app/api?username=TheManWhoLikesToCode&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="400"> </p>
+<p align="center"> GitHub Streak<br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheManWhoLikesToCode&theme=dark&hide_border=false" width="400"> </p>
+<p align="center"> Top Languages<br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheManWhoLikesToCode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400"> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TheManWhoLikesToCode&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheManWhoLikesToCode&theme=dark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaydin-freeman/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC0m_thXrfzuvTLgGwyz1cnw) 
